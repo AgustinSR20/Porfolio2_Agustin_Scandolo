@@ -1,0 +1,15 @@
+PORTFOLIO HOTEL SOL · AGUSTÍN SCANDOLO
+
+Contenido:
+- index.html: portfolio con la aplicación de escritorio y la nueva experiencia web 3D.
+- styles.css: diseño responsive para los dos proyectos.
+- script.js: navegación móvil, animaciones y demo interactiva de búsqueda.
+- assets/: dos capturas del programa, una captura del recorrido 3D y la foto de perfil.
+- HotelSolReservas/HotelSolReservas: código Java y recursos del proyecto de escritorio.
+
+Abrir el portfolio: abre index.html en Chrome, Edge o Firefox. No necesita instalación.
+Demo web 3D: https://neon-hummingbird-62cf0a.netlify.app/
+Aplicación de escritorio: JDK 21 y Maven 3.9+; ejecuta mvn clean javafx:run dentro de HotelSolReservas/HotelSolReservas.
+
+Para crear el nuevo repositorio, consulta los pasos de publicación en README.md.
+La demo web usa reservas locales; no muestra disponibilidad en tiempo real.
